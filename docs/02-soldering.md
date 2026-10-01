@@ -1,3 +1,5 @@
+**语言 / Language：** **中文** · [English](02-soldering.en.md)
+
 # 02 · 板子的焊接：第一次把图纸变成实物
 
 [← 上一章：电路图的学习](01-schematic.md) · [返回首页](../README.md) · [下一章：程序的烧录 →](03-flashing.md)
@@ -90,3 +92,5 @@
 ---
 
 [← 上一章：01 · 电路图的学习](01-schematic.md) · [返回首页](../README.md) · [下一章：03 · 程序的烧录 →](03-flashing.md)
+
+**语言 / Language：** **中文** · [English](02-soldering.en.md)

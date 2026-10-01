@@ -1,3 +1,5 @@
+**语言 / Language：** **中文** · [English](01-schematic.en.md)
+
 # 01 · 电路图的学习：把复杂板子拆成能理解的模块
 
 [← 上一章：前言](00-preface.md) · [返回首页](../README.md) · [下一章：板子的焊接 →](02-soldering.md)
@@ -161,3 +163,5 @@ Exlink 的原理图已经按照功能划分成不同区域，这大大降低了�
 ---
 
 [← 上一章：00 · 前言](00-preface.md) · [返回首页](../README.md) · [下一章：02 · 板子的焊接 →](02-soldering.md)
+
+**语言 / Language：** **中文** · [English](01-schematic.en.md)

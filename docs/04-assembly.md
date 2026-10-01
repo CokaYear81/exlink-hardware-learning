@@ -1,3 +1,5 @@
+**语言 / Language：** **中文** · [English](04-assembly.en.md)
+
 # 04 · 最后的组装：把能运行的电路变成一台完整设备
 
 [← 上一章：程序的烧录](03-flashing.md) · [返回首页](../README.md) · [下一章：尾声 →](05-epilogue.md)
@@ -36,3 +38,5 @@
 ---
 
 [← 上一章：03 · 程序的烧录](03-flashing.md) · [返回首页](../README.md) · [下一章：05 · 尾声 →](05-epilogue.md)
+
+**语言 / Language：** **中文** · [English](04-assembly.en.md)

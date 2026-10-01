@@ -1,3 +1,5 @@
+**语言 / Language：** **中文** · [English](00-preface.en.md)
+
 # 00 · 前言：一个计算机学生新的起点
 
 [← 返回首页](../README.md) · [下一章：电路图的学习 →](01-schematic.md)
@@ -26,3 +28,5 @@ Exlink 是一个开源项目，拥有比较完整的技术文档、BOM 和相关
 ---
 
 [← 返回首页](../README.md) · [下一章：01 · 电路图的学习 →](01-schematic.md)
+
+**语言 / Language：** **中文** · [English](00-preface.en.md)

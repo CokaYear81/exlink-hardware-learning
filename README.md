@@ -1,3 +1,5 @@
+**语言 / Language：** **中文** · [English](README.en.md)
+
 # 从 0 开始的硬件学习：我的 Exlink 复刻记录
 
 > 一个计算机专业学生第一次系统接触原理图、焊接、固件烧录与软硬件联调的过程记录。
@@ -67,3 +69,5 @@ flowchart LR
 ---
 
 [开始阅读：00 · 前言 →](docs/00-preface.md)
+
+**语言 / Language：** **中文** · [English](README.en.md)

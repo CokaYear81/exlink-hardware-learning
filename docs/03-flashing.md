@@ -1,3 +1,5 @@
+**语言 / Language：** **中文** · [English](03-flashing.en.md)
+
 # 03 · 程序的烧录：让电路真正运行起来
 
 [← 上一章：板子的焊接](02-soldering.md) · [返回首页](../README.md) · [下一章：最后的组装 →](04-assembly.md)
@@ -129,3 +131,5 @@ RP2040 的烧录更直观：按住烧录键接入 USB，电脑会将它识别为
 ---
 
 [← 上一章：02 · 板子的焊接](02-soldering.md) · [返回首页](../README.md) · [下一章：04 · 最后的组装 →](04-assembly.md)
+
+**语言 / Language：** **中文** · [English](03-flashing.en.md)

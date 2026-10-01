@@ -1,3 +1,5 @@
+**语言 / Language：** **中文** · [English](05-epilogue.en.md)
+
 # 05 · 尾声
 
 [← 上一章：最后的组装](04-assembly.md) · [返回首页](../README.md)
@@ -32,3 +34,5 @@
 ---
 
 [← 上一章：04 · 最后的组装](04-assembly.md) · [返回首页](../README.md)
+
+**语言 / Language：** **中文** · [English](05-epilogue.en.md)
